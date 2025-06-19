@@ -1,6 +1,6 @@
 The following steps led to successful data retrieval on March 16th 2025.
 
-Clone the dota2api from https://github.com/joshuaduffy/dota2api
+Clone the dota2api from https://github.com/joshuaduffy/dota2api.
 
 Copy the dota_experiment.py file into the directory.
 
